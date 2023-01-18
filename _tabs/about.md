@@ -1,8 +1,15 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
+---
+# the default layout is 'page'
+
+icon: fas fa-info-circle
+order: 5
+--------
+
+Hi, I'm Alain Airom, cloud engineer at IBM.
+
+This is my personal blog where I share posts about my experience, reviews etc...
+
+Views are my own :)
